@@ -25,6 +25,13 @@
               }
           }
       },
+      "micro-frontend-3": {
+          "allowedQueries": {
+              "linesByUser": {
+                  "restrictedFields": null
+              }
+          }
+      },
       "the-client-name-from-authorization": {
           "allowedQueries": {
               "nameOfTopLevelQueryAllowed": {
